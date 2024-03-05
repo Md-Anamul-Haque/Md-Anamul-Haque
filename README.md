@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anamul Haque</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
+![image](https://github.com/Md-Anamul-Haque/Md-Anamul-Haque/assets/82591214/22364c8d-8851-47e1-be87-9e1fa34dfce1)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-anamul-haque&label=Profile%20views&color=0e75b6&style=flat" alt="md-anamul-haque" /> </p>
 
