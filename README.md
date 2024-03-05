@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-anamul-haque&label=Profile%20views&color=0e75b6&style=flat" alt="md-anamul-haque" /> </p>
 
-- 💬 Ask me about **Nodejs, react, postgresql**
+- 💬 Ask me about **Nodejs, react, TypeScript, JavaScript, postgresql**
 
 - 📫 How to reach me **m.anamul.dev@gmail.com**
 
