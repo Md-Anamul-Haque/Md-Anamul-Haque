@@ -2,8 +2,8 @@
 
 **Location:** Dhaka, Bangladesh (open to remote)  
 **Email:** m.anamul.dev@gmail.com  
-**GitHub:** https://github.com/Md-Anamul-Haque  
-**LinkedIn:** https://www.linkedin.com/in/anamul--haque
+**LinkedIn:** https://www.linkedin.com/in/anamulhaque32/  
+**GitHub:** https://github.com/Md-Anamul-Haque
 
 ---
 
@@ -12,7 +12,7 @@ I build reliable, production-ready web and desktop applications using a modern T
 
 ---
 
-## Core Skills
+## Key Skills
 
 - **Languages & Frameworks:** TypeScript, Node.js, Express, React, Redux, Next.js, React Native (Expo)  
 - **Databases & Cache:** PostgreSQL, PL/pgSQL, Drizzle ORM, Redis (basic)  
@@ -26,39 +26,39 @@ I build reliable, production-ready web and desktop applications using a modern T
 ## Experience (Selected)
 
 **Software Developer — ITBeeSolution**  
-_2024 —to- Present (remote-ready)_
+_June 2024 — Present (remote-ready)_
 
-- Primary developer for **Ultrasnap**, a real-time project management and communication platform combining task boards, automated activity monitoring, and high-quality meetings.  
-- Responsibilities included full-stack development (web + desktop), server-side APIs, database design, real-time comms using mediasoup SFU, and EC2-based deployments.  
-- Implemented automated screenshot capture for activity monitoring, organization-based meetings, room and 1:1 chat, and scalable backend architecture.
+- Led architecture and development of **Ultrasnap**, a real-time project management and communication platform combining task boards, automated activity monitoring, and integrated meetings/chat.  
+- Implemented full-stack features (web + desktop clients, server APIs, database design) and managed EC2 deployments for production.  
+- Built real-time comms and meetings using WebRTC (mediasoup SFU) with room-based and 1:1 chat, screen-share, and recording/screenshot features for productivity monitoring.  
+- Designed scalable backend services with TypeScript, Node.js/Express, PostgreSQL, and Socket.IO for real-time updates.
 
 ---
 
-## Featured Project — Ultrasnap (primary project)
+## Featured Project — Ultrasnap
 
-**Ultrasnap** — real-time project management and team communication platform.
+**Ultrasnap** — Real-time project management & communication platform (primary project)
 
-- Features: ClickUp-style task management, automated screenshots every 2 minutes for activity insights, Discord-like meetings (audio/video + screen share), room-based and 1:1 chat, and reporting dashboards.  
-- Platforms: Web app, Desktop app (Electron / Tauri), Server APIs, PostgreSQL database.  
-- Role: Primary developer and architect; responsible for core code, architecture, and cloud deployment on AWS EC2.  
-- Tech highlights: TypeScript, Node.js, Express, mediasoup (SFU), Socket.IO, PostgreSQL, React, Redux, Tailwind CSS, Electron/Tauri, AWS EC2.
-
-> For security or confidentiality reasons the Ultrasnap repository is not public. Reach out for a demo or code review.
+- Features: ClickUp-style task boards, automated screenshots for activity insights (every 2 minutes), Discord-style meetings (audio/video + screen share), room-based and 1:1 chat, and reporting dashboards.  
+- Platforms: Web app, Desktop app (Electron / Tauri), Server APIs, PostgreSQL.  
+- Role: Primary developer and architect — responsible for core architecture, feature implementation, and cloud deployment on AWS EC2.  
+> Note: the Ultrasnap repository is private. Contact me for a demo or code review.
 
 ---
 
 ## Personal Project — CalcPOS (short)
 
 **CalcPOS** — Point-of-Sale system for shop accounts, inventory, sales, and reporting.  
-Built with Node.js/TypeScript, Express (rg-express routing), PostgreSQL, React, Redux, Tailwind CSS. `rg-express` published as an npm helper for structured route + middleware patterns.
+Built with Node.js/TypeScript, Express (rg-express routing), PostgreSQL, React, Redux, Tailwind CSS. `rg-express` published as an npm helper for structured routing and middleware.
 
 ---
 
 ## How to reach me
+
 - **Email:** m.anamul.dev@gmail.com (preferred)  
-- **LinkedIn:** https://www.linkedin.com/in/anamul--haque  
+- **LinkedIn:** https://www.linkedin.com/in/anamulhaque32/  
 - **GitHub:** https://github.com/Md-Anamul-Haque
 
-Open to remote opportunities. Available for interviews, technical tests, and demos on request.
+---
 
 ---
