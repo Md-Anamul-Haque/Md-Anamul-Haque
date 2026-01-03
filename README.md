@@ -1,25 +1,64 @@
-<h1 align="center">Hi 👋, I'm Anamul Haque</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+# Anamul Haque — Full Stack / Backend Developer
 
+**Location:** Dhaka, Bangladesh (open to remote)  
+**Email:** m.anamul.dev@gmail.com  
+**GitHub:** https://github.com/Md-Anamul-Haque  
+**LinkedIn:** https://www.linkedin.com/in/anamul--haque
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-anamul-haque&label=Profile%20views&color=0e75b6&style=flat" alt="md-anamul-haque" /> </p>
+---
 
-- 💬 Ask me about **Nodejs, react, TypeScript, JavaScript, postgresql**
+## About
+I build reliable, production-ready web and desktop applications using a modern TypeScript stack. I focus on clean architecture, real-time systems, and end-to-end ownership — from system design and backend APIs to frontend interfaces and cloud deployment. Seeking remote roles as a Software Engineer, Full Stack Developer, or Backend Developer.
 
-- 📫 How to reach me **m.anamul.dev@gmail.com**
+---
 
-- ⚡ Fun fact **I am funny**
+## Core Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/md-anamul-haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md-anamul-haque" height="30" width="40" /></a>
-</p>
-<img src="coding.gif" />
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- **Languages & Frameworks:** TypeScript, Node.js, Express, React, Redux, Next.js, React Native (Expo)  
+- **Databases & Cache:** PostgreSQL, PL/pgSQL, Drizzle ORM, Redis (basic)  
+- **Real-time & Communication:** WebRTC (mediasoup SFU), Socket.IO  
+- **UI & Styling:** Tailwind CSS, Styled Components, Shadcn/UI  
+- **Deployment & DevOps:** Git, PM2, Ubuntu/Linux, AWS EC2, Docker (basic)  
+- **Platforms & Tools:** Electron, Tauri
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-anamul-haque&show_icons=true&locale=en&layout=compact" alt="md-anamul-haque" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-anamul-haque&show_icons=true&locale=en" alt="md-anamul-haque" /></p>
+## Experience (Selected)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-anamul-haque&" alt="md-anamul-haque" /></p>
+**Software Developer — ITBeeSolution**  
+_2024 —to- Present (remote-ready)_
+
+- Primary developer for **Ultrasnap**, a real-time project management and communication platform combining task boards, automated activity monitoring, and high-quality meetings.  
+- Responsibilities included full-stack development (web + desktop), server-side APIs, database design, real-time comms using mediasoup SFU, and EC2-based deployments.  
+- Implemented automated screenshot capture for activity monitoring, organization-based meetings, room and 1:1 chat, and scalable backend architecture.
+
+---
+
+## Featured Project — Ultrasnap (primary project)
+
+**Ultrasnap** — real-time project management and team communication platform.
+
+- Features: ClickUp-style task management, automated screenshots every 2 minutes for activity insights, Discord-like meetings (audio/video + screen share), room-based and 1:1 chat, and reporting dashboards.  
+- Platforms: Web app, Desktop app (Electron / Tauri), Server APIs, PostgreSQL database.  
+- Role: Primary developer and architect; responsible for core code, architecture, and cloud deployment on AWS EC2.  
+- Tech highlights: TypeScript, Node.js, Express, mediasoup (SFU), Socket.IO, PostgreSQL, React, Redux, Tailwind CSS, Electron/Tauri, AWS EC2.
+
+> For security or confidentiality reasons the Ultrasnap repository is not public. Reach out for a demo or code review.
+
+---
+
+## Personal Project — CalcPOS (short)
+
+**CalcPOS** — Point-of-Sale system for shop accounts, inventory, sales, and reporting.  
+Built with Node.js/TypeScript, Express (rg-express routing), PostgreSQL, React, Redux, Tailwind CSS. `rg-express` published as an npm helper for structured route + middleware patterns.
+
+---
+
+## How to reach me
+- **Email:** m.anamul.dev@gmail.com (preferred)  
+- **LinkedIn:** https://www.linkedin.com/in/anamul--haque  
+- **GitHub:** https://github.com/Md-Anamul-Haque
+
+Open to remote opportunities. Available for interviews, technical tests, and demos on request.
+
+---
