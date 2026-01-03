@@ -26,7 +26,7 @@ I build reliable, production-ready web and desktop applications using a modern T
 ## Experience (Selected)
 
 **Software Developer — ITBeeSolution**  
-_June 2024 — Present (remote-ready)_
+_2024 -to— Present (remote-ready)_
 
 - Led architecture and development of **Ultrasnap**, a real-time project management and communication platform combining task boards, automated activity monitoring, and integrated meetings/chat.  
 - Implemented full-stack features (web + desktop clients, server APIs, database design) and managed EC2 deployments for production.  
