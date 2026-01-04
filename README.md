@@ -42,7 +42,7 @@ _2024 -to— Present (remote-ready)_
 - Features: ClickUp-style task boards, automated screenshots for activity insights (every 2 minutes), Discord-style meetings (audio/video + screen share), room-based and 1:1 chat, and reporting dashboards.  
 - Platforms: Web app, Desktop app (Electron / Tauri), Server APIs, PostgreSQL.  
 - Role: Primary developer and architect — responsible for core architecture, feature implementation, and cloud deployment on AWS EC2.  
-> Note: the Ultrasnap repository is private. Contact me for a demo or code review.
+> Note: Ultrasnap is a company project and the repository is private.
 
 ---
 
