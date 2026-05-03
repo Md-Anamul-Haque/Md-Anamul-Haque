@@ -14,11 +14,11 @@ I build reliable, production-ready web and desktop applications using a modern T
 
 ## Key Skills
 
-- **Languages & Frameworks:** TypeScript, Node.js, Express, React, Redux, Next.js, React Native (Expo)  
+- **Languages & Frameworks:** TypeScript, Node.js, bun, Express, hono, React, Redux, Next.js, React-Native(Expo)
 - **Databases & Cache:** PostgreSQL, PL/pgSQL, Drizzle ORM, Redis (basic)  
-- **Real-time & Communication:** WebRTC (mediasoup SFU), Socket.IO  
-- **UI & Styling:** Tailwind CSS, Styled Components, Shadcn/UI  
-- **Deployment & DevOps:** Git, PM2, Ubuntu/Linux, AWS EC2, Docker (basic)  
+- **Real-time & Communication:** WebRTC (mediasoup SFU), Socket.IO, webSocket  
+- **UI & Styling:** CSS3, Tailwind CSS, Styled Components, Shadcn/UI, MUI, HeroUi and etc...
+- **Deployment & DevOps:** Git, PM2, Ubuntu/Linux, AWS EC2, Docker
 - **Platforms & Tools:** Electron, Tauri
 
 ---
