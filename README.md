@@ -1,6 +1,7 @@
 # Anamul Haque — Full Stack / Backend Developer
 
-**Location:** Dhaka, Bangladesh (open to remote)  
+**Location:** Dhaka, Bangladesh
+**portfolio** https://anamul.udvabok.com
 **Email:** m.anamul.dev@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/anamulhaque32/  
 **GitHub:** https://github.com/Md-Anamul-Haque
