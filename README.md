@@ -1,65 +1,78 @@
-# Anamul Haque — Full Stack / Backend Developer
+<div align="center">
+  <h1>Anamul Haque</h1>
+  <h3>Full Stack & Backend Software Engineer</h3>
+  
+  <p>
+    Building scalable, reliable, and production-grade web and desktop applications using modern TypeScript technologies.
+  </p>
 
-**Location:** Dhaka, Bangladesh
-**portfolio** https://anamul.udvabok.com
-**Email:** m.anamul.dev@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/anamulhaque32/  
-**GitHub:** https://github.com/Md-Anamul-Haque
-
----
-
-## About
-I build reliable, production-ready web and desktop applications using a modern TypeScript stack. I focus on clean architecture, real-time systems, and end-to-end ownership — from system design and backend APIs to frontend interfaces and cloud deployment. Seeking remote roles as a Software Engineer, Full Stack Developer, or Backend Developer.
-
----
-
-## Key Skills
-
-- **Languages & Frameworks:** TypeScript, Node.js, bun, Express, hono, React, Redux, Next.js, React-Native(Expo)
-- **Databases & Cache:** PostgreSQL, PL/pgSQL, Drizzle ORM, Redis (basic)  
-- **Real-time & Communication:** WebRTC (mediasoup SFU), Socket.IO, webSocket  
-- **UI & Styling:** CSS3, Tailwind CSS, Styled Components, Shadcn/UI, MUI, HeroUi and etc...
-- **Deployment & DevOps:** Git, PM2, Ubuntu/Linux, AWS EC2, Docker
-- **Platforms & Tools:** Electron, Tauri
+  <a href="https://anamul.udvabok.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:m.anamul.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/anamulhaque32" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
 ---
 
-## Experience (Selected)
+### About Me
 
-**Software Developer — [ITBeeSolution**  ](https://itbeesolution.com/)
-_2024 -to— Present (remote-ready)_
+I am a passionate **Full Stack & Backend Developer** with strong expertise in building end-to-end applications. I focus on clean architecture, performance, and real-time systems. 
 
-- Led architecture and development of **Ultrasnap**, a real-time project management and communication platform combining task boards, automated activity monitoring, and integrated meetings/chat.  
-- Implemented full-stack features (web + desktop clients, server APIs, database design) and managed EC2 deployments for production.  
-- Built real-time comms and meetings using WebRTC (mediasoup SFU) with room-based and 1:1 chat, screen-share, and recording/screenshot features for productivity monitoring.  
-- Designed scalable backend services with TypeScript, Node.js/Express, PostgreSQL, and Socket.IO for real-time updates.
+With experience leading development of complex SaaS products, I take full ownership from system design to deployment.
 
----
-
-## Featured Project — Ultrasnap
-
-**Ultrasnap** — Real-time project management & communication platform (primary project)
-
-- Features: ClickUp-style task boards, automated screenshots for activity insights (every 2 minutes), Discord-style meetings (audio/video + screen share), room-based and 1:1 chat, and reporting dashboards.  
-- Platforms: Web app, Desktop app (Electron / Tauri), Server APIs, PostgreSQL.  
-- Role: Primary developer and architect — responsible for core architecture, feature implementation, and cloud deployment on AWS EC2.  
-> Note: Ultrasnap is a company project and the repository is private.
+- **Location:** Dhaka, Bangladesh  
+- **Open to:** Remote opportunities as Software Engineer, Full Stack Developer, or Backend Developer
 
 ---
 
-## Personal Project — CalcPOS (short)
+### Tech Stack
 
-**CalcPOS** — Point-of-Sale system for shop accounts, inventory, sales, and reporting.  
-Built with Node.js/TypeScript, Express (rg-express routing), PostgreSQL, React, Redux, Tailwind CSS. `rg-express` published as an npm helper for structured routing and middleware.
+| Category              | Technologies |
+|-----------------------|-------------|
+| **Languages**         | TypeScript, Node.js, JavaScript |
+| **Backend**           | Express.js, Hono, Bun |
+| **Frontend**          | React, Redux, Next.js, React Native (Expo) |
+| **Desktop**           | Electron, Tauri |
+| **Databases**         | PostgreSQL, PL/pgSQL, Drizzle ORM, Redis |
+| **Styling**           | Tailwind CSS, Shadcn/UI, MUI, Styled Components |
+| **Real-time**         | WebRTC (Mediasoup SFU), Socket.IO, WebSocket |
+| **DevOps & Tools**    | Docker, AWS EC2, Git, Linux, PM2 |
+
+---
+
+### Professional Experience
+
+**Software Developer**  
+[ITBeeSolution](https://itbeesolution.com/) — *January 2024 – February 2026 (Remote)*
+
+- Led the full-stack development of **Ultrasnap**, an enterprise SaaS platform combining project management, time tracking, and real-time video conferencing.
+- Designed and implemented real-time audio/video communication using **Mediasoup SFU** (one-to-one and group calls).
+- Built automated activity tracking system with 2-minute screenshot capture, team chat, and advanced scheduling.
+- Developed both web (React + Tailwind) and desktop applications (Electron & Tauri).
+- Solely responsible for 90%+ of the codebase and AWS infrastructure.
+
+**Co-founder & Lead Developer**  
+**Udvabok** — *2021 – Present*
+
+- Architecting and developing multiple SaaS products for Bangladeshi institutions:
+  - School & Madrasa Management Systems
+  - Point of Sale (POS) System with inventory and analytics
+  - Hospital Management System (in development)
 
 ---
 
-## How to reach me
 
-- **Email:** m.anamul.dev@gmail.com (preferred)  
-- **LinkedIn:** https://www.linkedin.com/in/anamulhaque32/  
-- **GitHub:** https://github.com/Md-Anamul-Haque
+### Contact
+
+**Preferred:** m.anamul.dev@gmail.com  
+**Portfolio:** [anamul.udvabok.com](https://anamul.udvabok.com)  
+**LinkedIn:** [linkedin.com/in/anamulhaque32](https://www.linkedin.com/in/anamulhaque32)
 
 ---
 
----
+*Actively seeking remote Software Engineering opportunities.*
